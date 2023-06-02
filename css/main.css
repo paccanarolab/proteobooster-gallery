@@ -1,0 +1,19 @@
+#main-logo {
+    margin-bottom: 1em;
+}
+
+#lab-logo {
+}
+
+#fgv-logo {
+    width:100%;
+}
+
+.organism-card {
+    background-color: #f1f1f1;
+    > img {
+        max-height:200px;
+        object-fit:cover;
+        object-position:center;
+    }
+}
